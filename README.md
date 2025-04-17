@@ -415,5 +415,10 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})
 
 - [노트북](./day08/mldl01_YOLO_start.ipynb)
 
+
+<img src='./image/ml0023.gif' width = 500>
+
+<img src='./image/ml0022.gif' width = 500>
+
 ### 코딩테스트
 - 코딩테스트
