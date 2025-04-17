@@ -413,5 +413,7 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})
 - 2020년 파이토치 기반 변경(YOLOv5) : https://www.ultralytics.com/ko
 - 2025년 현재 v12(beta) , b11(stable)
 
-### 토이프로젝트
+- [노트북](./day08/mldl01_YOLO_start.ipynb)
+
 ### 코딩테스트
+- 코딩테스트
